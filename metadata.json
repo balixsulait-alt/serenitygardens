@@ -1,0 +1,8 @@
+{
+  "name": "Serenity Gardens Iganga",
+  "description": "Premium venue and garden in Iganga, Uganda for weddings, party hostings, conferences/hall meetings, and comfortable let rooms, featuring real-time automated booking and digital deposit payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
