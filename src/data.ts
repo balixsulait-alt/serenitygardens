@@ -1,11 +1,15 @@
 import { GallerySpot, PricingPlan } from "./types";
+import gardensImg from "./assets/images/garden_view_main_1779718409861.png";
+import hallImg from "./assets/images/meeting_hall_1779717370068.png";
+import partyImg from "./assets/images/chef_gourmet_meals_1779718447976.png";
+import roomsImg from "./assets/images/room_cozy_overnight_1779718427823.png";
 
 // Explicit generated images saved on current execution
 export const VENUE_IMAGES = {
-  gardens: "/src/assets/images/garden_view_main_1779718409861.png",
-  hall: "/src/assets/images/meeting_hall_1779717370068.png",
-  party: "/src/assets/images/chef_gourmet_meals_1779718447976.png", // Use the gourmet photo for twilight/banquets/meals showcase
-  rooms: "/src/assets/images/room_cozy_overnight_1779718427823.png"
+  gardens: gardensImg,
+  hall: hallImg,
+  party: partyImg,
+  rooms: roomsImg
 };
 
 export const GALLERY_SPOTS: GallerySpot[] = [
